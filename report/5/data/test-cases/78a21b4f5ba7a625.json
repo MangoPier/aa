@@ -1,0 +1,50 @@
+{
+  "uid" : "78a21b4f5ba7a625",
+  "name" : "test_success",
+  "fullName" : "Python_standardware#test_success",
+  "historyId" : "ce9112ec6798a03c924cbcecb0f730ee",
+  "time" : {
+    "start" : 1665816901035,
+    "stop" : 1665816901035,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Python_standardware"
+  }, {
+    "name" : "host",
+    "value" : "Windows"
+  }, {
+    "name" : "thread",
+    "value" : "18012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Python_standardware"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78a21b4f5ba7a625.json",
+  "parameterValues" : [ ]
+}

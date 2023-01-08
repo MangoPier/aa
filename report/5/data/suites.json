@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Python_standardware",
+    "children" : [ {
+      "name" : "test_success",
+      "uid" : "78a21b4f5ba7a625",
+      "parentUid" : "de1cce660d5bf2bce4c3aad1bd1a83c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665816901035,
+        "stop" : 1665816901035,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_failure",
+      "uid" : "c080592e45307207",
+      "parentUid" : "de1cce660d5bf2bce4c3aad1bd1a83c2",
+      "status" : "failed",
+      "time" : {
+        "start" : 1665816901038,
+        "stop" : 1665816901038,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_skip",
+      "uid" : "4fe49c34b505babc",
+      "parentUid" : "de1cce660d5bf2bce4c3aad1bd1a83c2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665816901070,
+        "stop" : 1665816901070,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_broken",
+      "uid" : "bfaa498462c957f9",
+      "parentUid" : "de1cce660d5bf2bce4c3aad1bd1a83c2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665816901073,
+        "stop" : 1665816901073,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "de1cce660d5bf2bce4c3aad1bd1a83c2"
+  } ]
+}

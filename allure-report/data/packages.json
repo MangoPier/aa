@@ -1,0 +1,91 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Python_standardware",
+    "children" : [ {
+      "name" : "test_with_link",
+      "uid" : "dd829c595d457d71",
+      "parentUid" : "058b1de85b2b6d42bfdefd77f8602cbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665819239577,
+        "stop" : 1665819239578,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_with_testcase_link",
+      "uid" : "cbd98c9323e670ca",
+      "parentUid" : "058b1de85b2b6d42bfdefd77f8602cbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665819239580,
+        "stop" : 1665819239581,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "058b1de85b2b6d42bfdefd77f8602cbd"
+  }, {
+    "name" : "test_allure",
+    "children" : [ {
+      "name" : "test_success",
+      "uid" : "f2bce3f470549141",
+      "parentUid" : "3ef423425f5377a296d8a347a72b5b74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1672927915522,
+        "stop" : 1672927915522,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_failure",
+      "uid" : "c3ec62f0ba560d4d",
+      "parentUid" : "3ef423425f5377a296d8a347a72b5b74",
+      "status" : "failed",
+      "time" : {
+        "start" : 1672927915525,
+        "stop" : 1672927915525,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_skip",
+      "uid" : "618010b07f7f5557",
+      "parentUid" : "3ef423425f5377a296d8a347a72b5b74",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1672927915562,
+        "stop" : 1672927915562,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_broken",
+      "uid" : "53d1f3f1f7307e08",
+      "parentUid" : "3ef423425f5377a296d8a347a72b5b74",
+      "status" : "broken",
+      "time" : {
+        "start" : 1672927915565,
+        "stop" : 1672927915565,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3ef423425f5377a296d8a347a72b5b74"
+  } ]
+}

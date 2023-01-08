@@ -1,0 +1,81 @@
+{
+  "8773665b49e9fd401074da49120ad98a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fe49c34b505babc",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a reason!",
+      "time" : {
+        "start" : 1665816901070,
+        "stop" : 1665816901070,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ce9112ec6798a03c924cbcecb0f730ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78a21b4f5ba7a625",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665816901035,
+        "stop" : 1665816901035,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b89e41320151afe45545496b11dcdeee" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c080592e45307207",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1665816901038,
+        "stop" : 1665816901038,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6feb6809afffd8de8a2ac8cde7cf3058" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfaa498462c957f9",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1665816901073,
+        "stop" : 1665816901073,
+        "duration" : 0
+      }
+    } ]
+  }
+}

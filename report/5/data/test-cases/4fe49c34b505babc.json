@@ -1,0 +1,52 @@
+{
+  "uid" : "4fe49c34b505babc",
+  "name" : "test_skip",
+  "fullName" : "Python_standardware#test_skip",
+  "historyId" : "8773665b49e9fd401074da49120ad98a",
+  "time" : {
+    "start" : 1665816901070,
+    "stop" : 1665816901070,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('D:\\\\Pythoncode\\\\aa\\\\Python_standardware.py', 68, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Python_standardware"
+  }, {
+    "name" : "host",
+    "value" : "Windows"
+  }, {
+    "name" : "thread",
+    "value" : "18012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Python_standardware"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fe49c34b505babc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "cbd98c9323e670ca",
+  "name" : "test_with_testcase_link",
+  "fullName" : "Python_standardware#test_with_testcase_link",
+  "historyId" : "1ece6ed57a13f200a54acf47969baa96",
+  "time" : {
+    "start" : 1665819239580,
+    "stop" : 1665819239581,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1a180093637321",
+      "name" : "stdout",
+      "source" : "f1a180093637321.txt",
+      "type" : "text/plain",
+      "size" : 34
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Python_standardware"
+  }, {
+    "name" : "host",
+    "value" : "Windows"
+  }, {
+    "name" : "thread",
+    "value" : "19980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Python_standardware"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "登录用例",
+    "url" : "http://oa.vastdata.com.cn/seeyon/main.do",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4b52cb110592004e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665819239580,
+        "stop" : 1665819239581,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbd98c9323e670ca.json",
+  "parameterValues" : [ ]
+}

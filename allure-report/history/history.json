@@ -1,0 +1,119 @@
+{
+  "4622636388a97e52f58f1c0c43ce98bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd829c595d457d71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665819239577,
+        "stop" : 1665819239578,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b2873979f94e50b7249573af844598f1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3ec62f0ba560d4d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1672927915525,
+        "stop" : 1672927915525,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1ece6ed57a13f200a54acf47969baa96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbd98c9323e670ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665819239580,
+        "stop" : 1665819239581,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bf3f7fa9061787a5323a5b436c629eb5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "618010b07f7f5557",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a reason!",
+      "time" : {
+        "start" : 1672927915562,
+        "stop" : 1672927915562,
+        "duration" : 0
+      }
+    } ]
+  },
+  "447d4fb47949f325e6c23d237e9d6d94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2bce3f470549141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1672927915522,
+        "stop" : 1672927915522,
+        "duration" : 0
+      }
+    } ]
+  },
+  "985c3d972d231f87d0914b89f78754fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53d1f3f1f7307e08",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1672927915565,
+        "stop" : 1672927915565,
+        "duration" : 0
+      }
+    } ]
+  }
+}
